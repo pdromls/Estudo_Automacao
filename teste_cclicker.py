@@ -17,7 +17,6 @@ time.sleep(0.3)
 pag.press('backspace')
 time.sleep(0.3)
 
-
 pag.write('https://orteil.dashnet.org/cookieclicker/')
 time.sleep(0.3)
 pag.press('enter')
