@@ -1,1 +1,1 @@
-# Estudo_Automa-o
+# Repositório dedicado aos meus estudos de automação
