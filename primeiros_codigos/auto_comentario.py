@@ -1,3 +1,4 @@
+# Este código abre o navegador, acessa um vídeo do YouTube e posta um comentário.
 import pyautogui as pag
 import time
 

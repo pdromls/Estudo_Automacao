@@ -1,3 +1,4 @@
+# Este código abre o navegador, acessa o jogo Cookie Clicker e automatiza cliques para jogar.
 import pyautogui as pag
 import time
 import keyboard
